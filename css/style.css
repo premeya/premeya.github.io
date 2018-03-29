@@ -290,7 +290,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .gtco-cover {
-  height: 750px;
+  height: 900px;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
@@ -397,7 +397,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-top: 10px;
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 1;
+  zoom: 0.5;
   *display: inline;
 }
 
